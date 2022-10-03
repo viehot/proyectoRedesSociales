@@ -1,0 +1,34 @@
+{
+  "name": "proyectodigitalers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viehot/proyectoRedesSociales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viehot/proyectoRedesSociales/issues"
+  },
+  "homepage": "https://github.com/viehot/proyectoRedesSociales#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dompurify": "^2.4.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "jsdom": "^20.0.1",
+    "marked": "^4.1.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.6.4",
+    "slugify": "^1.6.5"
+  }
+}
